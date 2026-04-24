@@ -1,4 +1,4 @@
-# creanspace_privacy
+# cleanspace_privacy
 It is for cleanspace app privacy policy 
 
 CleanSpace Privacy Policy
